@@ -34,7 +34,7 @@
 
 📌 Projetos em destaque:
 - [Sistema de Estoque com PHP e MySQL](https://github.com/pabloyves19/uploadProjetoEstoquePHP)
-- Em breve: Agenda Fácil Auto 🚗📅
+- Em breve: Agenda Fit - Controle de calorias📅
 
 📫 Como falar comigo:
 <div> 
